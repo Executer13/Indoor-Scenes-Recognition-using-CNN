@@ -1,6 +1,10 @@
 # Indoor-Scenes-Recognition-using-CNN
 The Following implementation uses places 365 Dataset as training and test dataset. 
 
+# # Instructions:
+-Download the [Places365 Dataset](https://drive.google.com/file/d/1EE6ykX5FdvCMp-iaw7FZx6dJBGK7vQYW/view?usp=drive_link) and place it inside the folder named 'dataset'
+ 
+
 The Number of Classes are given as:
 | Class Name  | Number of Images |
 | ------------- | ------------- |
